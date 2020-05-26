@@ -55,6 +55,7 @@ which will simulate a completion of MRI study and sending of patient data to our
 
 ```python3 inference_dcm.py``` 
 
+## Issues
 If you experience any problems or code reproducibility concerns, feel free to open an issue here. 
 
 
