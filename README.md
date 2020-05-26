@@ -16,7 +16,7 @@ But the technical challenge with the measurement of the volume of hippocampus us
 
 In this project, we will focus on the technical aspects of building a segmentation model and integrating it into the clinician's workflow, leaving the dataset curation and model validation questions largely outside the scope of this project.
 
-## Dataset
+## Dataset, Implementation and execution
 
 We are using the "Hippocampus" dataset from the Medical Decathlon competition(http://medicaldecathlon.com/) which is a collection of NIFTI files, with one file per volume, and one file per corresponding segmentation mask. 
 
